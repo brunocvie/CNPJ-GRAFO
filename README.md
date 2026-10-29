@@ -13,4 +13,7 @@ Após a conversão é necessário fazer um processo de desnormalização do banc
 
 Com o banco de dados criado e desnormalizado, basta indicar o caminho do arquivo e os CNPJs que se deseja descobrir os relacionamentos. A saída é um arquivo HTML dinâmico e um arquivo TXT indicando as entidades e os relacionamentos entre os CNPJs.
 
+* Linha 11 - Inserir os número de CNPJ separados por vírgula e entre aspas;
+* Linha 105 - Caminho do arquivo DB
+
 OBS.: O código foi criado para usar apenas o padrão numérico de CNPJs.
